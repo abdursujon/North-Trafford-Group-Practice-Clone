@@ -8,13 +8,13 @@ The focus of this project was to create an accessible software solution for ever
 
 ## ✨ Key Features  
 
-- **🔎 Department Locator**  
+- **Department Locator**  
   - Users can search for a department name to see the location they need to visit.  
 
-- **📅 Touchscreen Keyboard**  
+- **Touchscreen Keyboard**  
   - When clicking on the search bar, a virtual keyboard pops up, allowing the user to type.  
 
-- **🥗 Welsh Language Support**  
+- **Welsh Language Support**  
   - Developed with a cross-border platform in mind; users can choose to switch the interface language to Welsh.  
 
 ---
