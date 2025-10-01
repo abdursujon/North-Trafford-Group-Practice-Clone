@@ -1,0 +1,42 @@
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\bin\Debug\NorthTraffordGroupPractice.exe.config
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\bin\Debug\NorthTraffordGroupPractice.exe
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\bin\Debug\NorthTraffordGroupPractice.pdb
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.AssemblyReference.cache
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form1.resources
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Properties.Resources.resources
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.GenerateResource.cache
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.CoreCompileInputs.cache
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.exe
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.pdb
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form2.resources
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form3.resources
+C:\Users\sujon\OneDrive\Desktop\OneDrive\Computer Science\Year 1\Web Development and HCI\HCI\Assignment and Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form4.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\bin\Debug\NorthTraffordGroupPractice.exe.config
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\bin\Debug\NorthTraffordGroupPractice.exe
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\bin\Debug\NorthTraffordGroupPractice.pdb
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.AssemblyReference.cache
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form1.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form2.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form3.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form4.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Keyboard.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Properties.Resources.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.GenerateResource.cache
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.CoreCompileInputs.cache
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.exe
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.pdb
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form5.resources
+C:\Users\sujon\Downloads\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.exe.config
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.AssemblyReference.cache
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.exe.config
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form1.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form2.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form3.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form4.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Form5.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Keyboard.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.Properties.Resources.resources
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.GenerateResource.cache
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.csproj.CoreCompileInputs.cache
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.exe
+C:\Users\abdur\OneDrive\Portfolio Projects\NorthTraffordGroupPractice\obj\Debug\NorthTraffordGroupPractice.pdb
